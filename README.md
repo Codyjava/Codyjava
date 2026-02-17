@@ -2,6 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
-- <b>Active Directory labs (AlgoExpert)</b>
+- <b>Active Directory labs </b>
 
 
