@@ -3,5 +3,5 @@
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
 
 - <b>Active Directory labs (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
