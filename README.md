@@ -12,6 +12,7 @@
 - DNS Zone Transfer lab: https://github.com/Codyjava/DNS-Zone-Transfer-Lab/tree/main
 - DHCP Relay Agent lab: https://github.com/Codyjava/DHCP-Relay-Agent-Lab/tree/main
 - Cross Forest Trust lab: https://github.com/Codyjava/Cross-Forest-Trust-Lab/tree/main
+- Enterprise Certification Authority lab: https://github.com/Codyjava/Enterprise-Certification-Authority-PKI-Deployment-Lab/tree/main
 
 <b>Capstone Project </b>
 - Malware Traffic Analysis Using Security Onion: https://github.com/Codyjava/Analyzing-Malware-Traffic-Using-Security-Onion/tree/main 
